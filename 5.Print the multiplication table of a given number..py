@@ -10,6 +10,7 @@ print(f"\n--- Multiplication Table for {num} ---")
 print_table(num)
 
 # Output:
+# --- Multiplication Table for 5 ---
 # 5 X 1 =5
 # 5 X 2 =10
 # 5 X 3 =15
