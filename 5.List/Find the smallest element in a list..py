@@ -9,3 +9,5 @@ for num in numbers:
         largest =num
 
 print("smallest element",smallest)
+
+# output=10
