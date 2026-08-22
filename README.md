@@ -29,7 +29,7 @@ This repository documents my journey of improving programming skills by solving 
 
 My goal is to become a stronger software developer through disciplined daily practice.
 
-🎯 Goals
+🎯 Goal
 ✅ Practice coding every day
 ✅ Strengthen problem-solving skills
 ✅ Master Data Structures & Algorithms
