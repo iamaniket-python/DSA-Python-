@@ -1,6 +1,6 @@
 # Count Vowels
 
-text=input("Enter a name=")
+text=input("Enter a name=").lower()
 vowels=""
 count=0
 for i in text:
